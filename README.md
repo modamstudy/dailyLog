@@ -25,7 +25,7 @@ Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [Installation](#installation)
-  * [Using Homebrew](#using-homebrew)
+  * [Using Homebrew](#using-homebrew2)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)

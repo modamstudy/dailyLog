@@ -8,7 +8,7 @@ Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [1주차 학습 정리](#1주차-학습-정리)
-  * [앞으로 git 프로젝트로 만들고 싶은 것](#앞으로-git)
+  * [앞으로 git 프로젝트로 만들고 싶은 것](#앞으로-git-프로젝트로-만들고-싶은-것)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)
@@ -28,7 +28,7 @@ Table of Contents
 
 1주차 학습 정리
 ------------
-### 앞으로 git 프로젝트로 만들고 싶은 것
+### 1. 앞으로 git 프로젝트로 만들고 싶은 것
 - 개발된 소스를 git 으로 버젼관리를 하고 싶다. 
 - 작성된 문서를 git 으로 관리하고 싶다. 
   ( 현재는 네이버의 포스터로 작성하고 있는데 git 이 더 이점이 있을 것 같다.  )

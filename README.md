@@ -13,7 +13,7 @@ Table of Contents
   * [windows 에서 Git 관리 폴더 설정하기](#windows-에서-Git-관리-폴더-설정하기)
   * [Windows 에서 삭제하기](#Windows-에서-삭제하기)
   * [원격 repo 사용하기](#원격-repo-사용하기)
-  * [Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기](#Tracking-하기-Github-에-있는-repository-와-내 컴퓨터에-만들어놓은-repository-연결하기)
+  * [Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기](#Tracking-하기-Github-에-있는-repository-와-내-컴퓨터에-만들어놓은-repository-연결하기)
 * [2주차 학습 정리](#2주차-학습-정리)
   * [Using Homebrew](#using-homebrew)
   * [Using git](#using-git)

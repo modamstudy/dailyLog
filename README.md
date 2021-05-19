@@ -24,8 +24,8 @@ Table of Contents
 
 <!-- vim-markdown-toc GFM -->
 
-* [Installation](#installation)
-  * [Using Homebrew](#using-homebrew2)
+* [1주차 학습 정리](#1주차-학습-정리)
+  * [Using Homebrew](#using-homebrew)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)
@@ -67,7 +67,7 @@ Table of Contents
 
 <!-- vim-markdown-toc -->
 
-Installation
+1주차 학습 정리
 ------------
 
 fzf project consists of the following components:

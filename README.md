@@ -1,23 +1,5 @@
-<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf.png" height="170" alt="fzf - a command-line fuzzy finder"> [![github-actions](https://github.com/junegunn/fzf/workflows/Test%20fzf%20on%20Linux/badge.svg)](https://github.com/junegunn/fzf/actions)
+# Git 주차별 학습 정리
 ===
-
-fzf is a general-purpose command-line fuzzy finder.
-
-<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width=640>
-
-It's an interactive Unix filter for command-line that can be used with any
-list; files, command history, processes, hostnames, bookmarks, git commits,
-etc.
-
-Pros
-----
-
-- Portable, no dependencies
-- Blazingly fast
-- The most comprehensive feature set
-- Flexible layout
-- Batteries included
-    - Vim/Neovim plugin, key bindings, and fuzzy auto-completion
 
 Table of Contents
 -----------------

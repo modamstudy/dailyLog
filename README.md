@@ -8,7 +8,7 @@ Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [1주차 학습 정리](#1주차-학습-정리)
-  * [앞으로 git 프로젝트로 만들고 싶은 것](#1.-앞으로-git-프로젝트로-만들고-싶은-것)
+  * [1. 앞으로 git 프로젝트로 만들고 싶은 것](#1.-앞으로-git-프로젝트로-만들고-싶은-것)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)

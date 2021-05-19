@@ -8,7 +8,7 @@ Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [1주차 학습 정리](#1주차-학습-정리)
-  * [12주차 학습 정리](#12주차 학습 정리)
+  * [12주차 학습 정리](#12주차-학습-정리)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)

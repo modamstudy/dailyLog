@@ -8,7 +8,7 @@ Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [1주차 학습 정리](#1주차-학습-정리)
-  * [2주차 학습 정리](#2주차 학습 정리)
+  * [12주차 학습 정리](#12주차 학습 정리)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)
@@ -28,7 +28,7 @@ Table of Contents
 
 1주차 학습 정리
 ------------
-2주차 학습 정리
+12주차 학습 정리
 - 개발된 소스를 git 으로 버젼관리를 하고 싶다. 
 - 작성된 문서를 git 으로 관리하고 싶다. 
   ( 현재는 네이버의 포스터로 작성하고 있는데 git 이 더 이점이 있을 것 같다.  )

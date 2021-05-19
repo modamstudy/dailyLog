@@ -25,7 +25,7 @@ Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [Installation](#installation)
-  * [Using Homebrew](#using-homebrew)
+  * [1주차 주요 개념 키워드 적어보기](#1주차-주요-개념-키워드-적어보기)
   * [Using git](#using-git)
   * [Using Linux package managers](#using-linux-package-managers)
   * [Windows](#windows)
@@ -84,7 +84,7 @@ stuff.
 
 [bin]: https://github.com/junegunn/fzf/releases
 
-### Using Homebrew
+### 1주차 주요 개념 키워드 적어보기
 
 You can use [Homebrew](http://brew.sh/) (on macOS or Linux)
 to install fzf.

@@ -13,7 +13,7 @@ Table of Contents
   * [windows 에서 Git 관리 폴더 설정하기](#windows-에서-Git-관리-폴더-설정하기)
   * [Windows 에서 삭제하기](#Windows-에서-삭제하기)
   * [원격 repo 사용하기](#원격-repo-사용하기)
-  * [Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기](#Tracking-하기-Github-에-있는-repository-와-내-컴퓨터에-만들어놓은-repository-연결하기)
+  * [Tracking 하기](#Tracking-하기)
 * [2주차 학습 정리](#2주차-학습-정리)
   * [Using Homebrew](#using-homebrew)
   * [Using git](#using-git)
@@ -101,7 +101,8 @@ Q1.  원격 repo와 로컬 repo 가 뭐예요
       github 로그인 후 뜨는 페이지에서 초록색 new 버튼을 눌러서 repo를 만들어보겠습니다
       프로젝트 설명 페이지, 라이센스 등 여러 설정을 할 수 있지만 일단은 가장 간단한 형태로 만들어볼게요! 
       
-### Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기     
+### Tracking 하기
+   [부제] Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기     
    1. Windows 에서 설정하기 
       sourcetree 에 들어가서 kimchi-recipe 창에서 설정 버튼을 눌러주세요
       설정창이 뜨면 원격 -  추가를 누르세요.

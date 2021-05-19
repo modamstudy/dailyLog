@@ -9,10 +9,11 @@ Table of Contents
 
 * [1주차 학습 정리](#1주차-학습-정리)
   * [앞으로 git 프로젝트로 만들고 싶은 것](#앞으로-git-프로젝트로-만들고-싶은-것)
-  * [Using git](#using-git)
-  * [Using Linux package managers](#using-linux-package-managers)
-  * [Windows](#windows)
-  * [As Vim plugin](#as-vim-plugin)
+  * [1주차 주요 개념 키워드 적어보기](#1주차-주요-개념-키워드-적어보기)
+  * [windows 에서 Git 관리 폴더 설정하기](#windows-에서-Git-관리-폴더-설정하기)
+  * [Windows 에서 삭제하기](#Windows-에서-삭제하기)
+  * [원격 repo 사용하기](#원격-repo-사용하기)
+  * [Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기](#Tracking-하기-Github-에-있는-repository-와-내 컴퓨터에-만들어놓은-repository-연결하기)
 * [2주차 학습 정리](#2주차-학습-정리)
   * [Using Homebrew](#using-homebrew)
   * [Using git](#using-git)
@@ -33,7 +34,7 @@ Table of Contents
 - 작성된 문서를 git 으로 관리하고 싶다. 
   ( 현재는 네이버의 포스터로 작성하고 있는데 git 이 더 이점이 있을 것 같다.  )
 
-2. 1주차 주요 개념 키워드 적어보기
+### 1주차 주요 개념 키워드 적어보기
 
 Q1. Github 은 무엇인가요?
     => 더 이상 이런 파일은 그만! 하나의 파일로도 버전관리를 할 수 있게 도와줘요.
@@ -59,14 +60,14 @@ Q4. Git은 버전관리 도구라고 했습니다. commit(커밋) 은 무엇일�
       정확히는 snapshot(스냅샷) 즉, 찰칵 사진을 찍는 것, 현재 프로젝트의 전체 상태를 포착하는 거에요. 
    => commit 은 현재 프로젝트의 상태를 저장하는 것이라는 것을 기억하세요! 파일의 어떤 부분이 변경되었는지를 저장하는 것이 아니랍니다
    
-3. windows 에서 Git 관리 폴더 설정하기
+### windows 에서 Git 관리 폴더 설정하기
    1. sourcetree 를 켜고 Create 
    2. 탐색을 누르고 뜨는 화면에서 바탕화면에 만든  kimchi-recipe 클릭하고 '폴더 선택' 버튼을 눌러주세요
    3. 아래처럼 내용이 잘 채워졌다면 '생성을' 눌러주세요
    4. 아래처럼 팝업이 뜨면 예 를 눌러주세요. 놀라지 마세요! 이미 있는 폴더를 git 폴더로 만들 건지 다시 한번 확인하는 것 뿐이에요
    5. 아래처럼 보이면 잘 된 거에요! 
    
-4. Windows 에서 삭제하기
+### Windows 에서 삭제하기
    1. + 를 눌러서 New Tab 을 열어주세요. 
    2. 삭제하려는 저장소를 선택한 후 우클릭 - 삭제를 누르면 팝업이 뜹니다.
    3. sourcetree 에서만 안 보이게 하려면 북마크를 제거하세요 를
@@ -93,14 +94,14 @@ Q1.  원격 repo와 로컬 repo 가 뭐예요
    => 원격 repo 를 내 컴퓨터에서도 사용할 수 있도록 가져올 수도 있어요. 일종의 초기 다운로드라고 생각하면 됩니다. 
       이걸 clone(클론, 복제) 라고 해요. 
       
-5. 원격 repo 사용하기      
+### 원격 repo 사용하기      
    1. tracking- 로컬 repo 와 원격 repo 연결하기
       원격 repo 가 없으므로 Github 에 원격 repo 를 만들고, 내 컴퓨터에 있는 로컬 repo 와 연결시켜볼게요! 
    2. 원격 repo 만들기  
       github 로그인 후 뜨는 페이지에서 초록색 new 버튼을 눌러서 repo를 만들어보겠습니다
       프로젝트 설명 페이지, 라이센스 등 여러 설정을 할 수 있지만 일단은 가장 간단한 형태로 만들어볼게요! 
       
-6. Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기     
+### Tracking 하기 Github 에 있는 repository 와 내 컴퓨터에 만들어놓은 repository 연결하기     
    1. Windows 에서 설정하기 
       sourcetree 에 들어가서 kimchi-recipe 창에서 설정 버튼을 눌러주세요
       설정창이 뜨면 원격 -  추가를 누르세요.

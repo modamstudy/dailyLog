@@ -42,7 +42,8 @@ Q1. Github 은 무엇인가요?
     => 더 이상 이런 파일은 그만! 하나의 파일로도 버전관리를 할 수 있게 도와줘요.
     
 Q2. Git 으로 모든 파일의 내용이 자동 비교가 되나요? 
-   => 기본 설정으로는 코드(Python, HTML, JavaScript, Java,...) text 파일, markdown파일(text 파일의 일종), CSV 파일 등 이 가능합니다!   
+   => 기본 설정으로는 코드(Python, HTML, JavaScript, Java,...) text 파일, markdown파일(text 파일의 일종), CSV 파일 등 이 가능합니다!
+   
    => 이미지 파일, Word 파일, PDF 파일, 엑셀 파일은 여러가지 설정을 해주어야 가능하답니다. 기본 설정으로 이런 파일들은 파일의 크기가 변했구나! 만 알 수 있어요~         
  
  

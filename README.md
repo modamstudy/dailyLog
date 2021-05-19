@@ -178,7 +178,7 @@ Commit 관리하기
 다른 사람들과 같이 협업하고 있다면 어떤 내용이 되돌려졌는지 기록으로 남기는 것도 중요합니다.<br>
 어떤 내용을 되돌렸는지 새로운 commit을 남기는 것을 revert(리버트) 라고 합니다.<br> 
 최신 commit 뿐만 아니라 이전에 했던 commit 도 revert 로 되돌릴 수 있답니다! <br>
-작업하다가 commit 메시지에 오타가 났거나 파일을 까먹고 add(staging)하는 경우가 있겠죠?<br><br>  
+작업하다가 commit 메시지에 오타가 났거나 파일을 까먹고 add(staging)하는 경우가 있겠죠?<br>
 - 최신의 commit을 수정하는 것을 amend(어맨드,고치기) 라고 합니다!<br> 
   amend 로는 가장 최신의 commit 만 고칠 수 있다는 것을 꼭 기억하세요!<br>
 - reset (리셋)은 commit 했던 작업내역을 말 그대로 리셋시키는 것입니다.<br>
